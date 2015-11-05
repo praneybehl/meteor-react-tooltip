@@ -1,0 +1,1 @@
+ReactTooltip = require("react-tooltip");
