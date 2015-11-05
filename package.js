@@ -1,7 +1,7 @@
 Package.describe({
   name: 'praneybehl:react-tooltip',
   version: '0.8.4',
-  summary: 'Simple Tooltip for React.js packaged for Meteor',
+  summary: 'Simple Tooltip component for React.js packaged for Meteor',
   git: 'https://github.com/praneybehl/meteor-react-tooltip',
   documentation: 'README.md'
 });
